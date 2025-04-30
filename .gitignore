@@ -3,3 +3,5 @@ prosit/
 prosit4/
 venv/
 *.csv
+*png
+*.gif
